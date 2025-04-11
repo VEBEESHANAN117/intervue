@@ -1,3 +1,5 @@
+"My assignment is located at src/test/java/intervue1/IntervueLoginTest.java.
+
 Steps Covered by the Script
 
 1.Launch the Intervue.io Website
